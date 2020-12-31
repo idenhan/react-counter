@@ -1,6 +1,6 @@
 # Counter App
 
-A simple counter app. This project was built with using bootstrap and react class components.
+A simple counter app. This project was built with using bootstrap and class components in React.
 
 ## Available Scripts
 
