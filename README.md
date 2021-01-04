@@ -2,10 +2,6 @@
 
 A simple counter app. This project was built with using bootstrap and class components in React.
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `yarn start`
 
 Runs the app in the development mode.\
