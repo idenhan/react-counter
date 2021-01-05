@@ -6,7 +6,10 @@ class NavBar extends Component {
       <nav className="navbar navbar-light bg-light">
         {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
         <a className="navbar-brand" href="#">
-          Navbar
+          Navbar{" "}
+          <span className="badge badge-pill badge-secondary">
+            {this.props.totalCounters}
+          </span>
         </a>
       </nav>
     );
